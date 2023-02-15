@@ -1,6 +1,6 @@
 #write a function that takes in a string
 #containing a phone number and presents
-#it in the format '1234 - 5678 - 901'
+#it in the format '234 - 1234 - 5678 - 901'
 
 def phone_number(number : str = "") -> str:
 
